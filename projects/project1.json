@@ -1,8 +1,8 @@
 {
   "id": 1,
-  "title": "AI Customer Support Agent",
-  "description": "A production-ready AI support agent using FastAPI, FAISS vector search, LangChain, and Groq (Llama 3.3 70B) for intelligent, context-aware responses.",
-  "tech_stack": ["Python", "FastAPI", "LangChain", "FAISS", "Groq", "MySQL", "Docker"],
-  "github_url": "https://github.com/Muhammad-Khizer-Hayat/portfolio",
-  "live_url": null
+  "title": "ApplianceSearch",
+  "description": "A FastAPI-based home appliance search and recommendation platform for the Pakistani market, featuring FAISS vector search, AI-powered recommendations via Groq, spell correction, and a full admin/cart/checkout flow.",
+  "tech_stack": ["Python", "FlaskAPI", "FAISS", "Groq", "Sentence-Transformers","GemniApi"],
+  "github_url": null,
+  "live_url": "https://appliances-search.vercel.app"
 }
