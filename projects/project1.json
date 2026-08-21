@@ -3,6 +3,6 @@
   "title": "ApplianceSearch",
   "description": "A FastAPI-based home appliance search and recommendation platform for the Pakistani market, featuring FAISS vector search, AI-powered recommendations via Groq, spell correction, and a full admin/cart/checkout flow.",
   "tech_stack": ["Python", "FlaskAPI", "FAISS", "Groq", "Sentence-Transformers","GemniApi"],
-  "github_url": null,
+  "github_url": "https://github.com/Muhammad-Khizer-Hayat/appliance-search2",
   "live_url": "https://appliances-search.vercel.app"
 }
