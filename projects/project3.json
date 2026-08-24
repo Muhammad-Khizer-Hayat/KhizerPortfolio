@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "title": "NexusBot-Ai Assistant",
+  "description": "An AI-powered chatbot for answering questions and providing assistance.",
+  "tech_stack": ["Python", "FastAPI", "HTML", "CSS", "JavaScript", "Docker"],
+  "github_url": "https://github.com/Muhammad-Khizer-Hayat/NexusBot",
+  "live_url": "https://khizer-nexusbot.up.railway.app"
+}
