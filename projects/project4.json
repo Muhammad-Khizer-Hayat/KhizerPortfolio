@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "title": "Resume Checker(CV)",
+  "description": "A FastAPI-based Resume checker and matcher platform for the Pakistani market, featuring FAISS vector search, AI-powered ",
+  "tech_stack": ["Python", "FlaskAPI", "FAISS", "Groq", "Sentence-Transformers","GemniApi"],
+  "github_url": "https://github.com/Muhammad-Khizer-Hayat/resume_matcher",
+  "live_url": "https://resume-matcher-seven-pi.vercel.app/"
+}
