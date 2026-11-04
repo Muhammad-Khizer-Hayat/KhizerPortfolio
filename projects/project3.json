@@ -4,5 +4,5 @@
   "description": "An AI-powered chatbot for answering questions and providing assistance.",
   "tech_stack": ["Python", "FastAPI", "HTML", "CSS", "JavaScript", "Docker", "LangChain", "Groq API", "Tools"],
   "github_url": "https://github.com/Muhammad-Khizer-Hayat/NexusBot",
-  "live_url": "https://khizer-nexusbot.up.railway.app"
+  "live_url": "https://nexusbot-assistant.up.railway.app"
 }
