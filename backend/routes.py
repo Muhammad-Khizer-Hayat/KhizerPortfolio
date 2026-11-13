@@ -64,7 +64,7 @@ def get_skills():
         {"name": "Render",    "level": 80, "category": "Deployment"},
         {"name": "Hugging Face",    "level": 80, "category": "AI/ML"},
         {"name": "Agent Protocols",    "level": 80, "category": "AI/ML"},
-        {"name": "Yolo,faster,fast,Mask-RCNN models",    "level": 80, "category": "Computer Vision"},
+        {"name": "Yolo",    "level": 80, "category": "Computer Vision"},
         {"name": "AI-ChatBot",    "level": 80, "category": "AI/ML"},
         {"name": "Prompt Engineering",    "level": 80, "category": "AI/ML"},
         {"name": "Transformers",    "level": 80, "category": "AI/ML"},
