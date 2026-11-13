@@ -48,12 +48,38 @@ def get_skills():
         {"name": "Python",      "level": 90, "category": "Backend"},
         {"name": "FastAPI",     "level": 85, "category": "Backend"},
         {"name": "LangChain",   "level": 80, "category": "AI/ML"},
+        {"name": "Langraph",    "level": 80, "category": "AI/ML"},
+        {"name": "Pandas",      "level": 80, "category": "AI/ML"},
+        {"name": "NumPy",       "level": 80, "category": "AI/ML"},
+        {"name": "PyTorch",     "level": 80, "category": "AI/ML"},
+        {"name": "TensorFlow",  "level": 80, "category": "AI/ML"},
         {"name": "FAISS",       "level": 75, "category": "AI/ML"},
         {"name": "Docker",      "level": 70, "category": "DevOps"},
         {"name": "MySQL",       "level": 75, "category": "Database"},
         {"name": "JavaScript",  "level": 65, "category": "Frontend"},
         {"name": "HTML/CSS",    "level": 80, "category": "Frontend"},
         {"name": "Streamlit",    "level": 80, "category": "Frontend"},
+        {"name": "Vercel",    "level": 80, "category": "Deployment"},
+        {"name": "Railway",    "level": 80, "category": "Deployment"},
+        {"name": "Render",    "level": 80, "category": "Deployment"},
+        {"name": "Hugging Face",    "level": 80, "category": "AI/ML"},
+        {"name": "Agent Protocols",    "level": 80, "category": "AI/ML"},
+        {"name": "Yolo,faster,fast,Mask-RCNN models",    "level": 80, "category": "Computer Vision"},
+        {"name": "AI-ChatBot",    "level": 80, "category": "AI/ML"},
+        {"name": "Prompt Engineering",    "level": 80, "category": "AI/ML"},
+        {"name": "Transformers",    "level": 80, "category": "AI/ML"},
+        {"name": "N8N & Zapier ",    "level": 80, "category": "Automation"},
+        {"name": "ElevenLabs",    "level": 80, "category": "AI/ML"},
+
+
+
+
+
+
+
+
+
+
       
 
 
